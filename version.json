@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "3.6",
-    "apkId":  "1fWMvNKv-UZxL2u9W_OlUH-pli1eLHt6c",
-    "sha256":  "afeab67415476db6fe0ea6aaa34bff40fc67fbbfa6453718c115dedad41653b5",
-    "size":  713757,
-    "notes":  "Szint-út (új fő funkció): 50 szint gyökökkel, kanjikkal, szavakkal; 9 fokozat, mindkét irányú kérdés, az app ellenőriz; új anyag csak ha a korábbi rögzült; napi adag hozzád igazodik; szintlépéskor gratuláció, Claude-érdekesség és olvasmány."
+    "versionCode":  8,
+    "versionName":  "3.6.1",
+    "apkId":  "1uzX1roWk2WO5KiP_VzYr2C0GcV-xJJhw",
+    "sha256":  "e65b21d6c56cb2b88748194c82fea432e4502086ff55b0639a644a33521b8e43",
+    "size":  713937,
+    "notes":  "Felolvasás: nem vágja le az első hangokat. Fordításnál a hiányzó ékezet nem hiba."
 }
