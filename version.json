@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "3.4.1",
-    "apkId":  "1N5lillIM-AAr-3V3qF8nw-2BQ3NOMDLp",
-    "sha256":  "089595195b65e70f7096209de16b8a30050fd65d834e69cc4f64e45e393bff54",
-    "size":  692165,
-    "notes":  "Ragozás mondatban: pontosabb feladatok (a helyes alakot a program adja, Claude csak a mondatot írja). Beírt válasznál a romaji elírásokat elfogadja, de a hiányzó hosszítás (pl. benkyo) vagy kettőzés hiba marad. Böngészős változat Drive-szinkronnal."
+    "versionCode":  6,
+    "versionName":  "3.5",
+    "apkId":  "1YxBqCsDq-pjhJIxZFPjFjEZjbZCmUAGB",
+    "sha256":  "3f22580af81a7c71dd83cb7437271ecdade713b5ea048bb9d2c09abec343be36",
+    "size":  685941,
+    "notes":  "Saját 1–50 nehézségi szint (a WaniKani-szintek helyett): a kanjik a gyakori, egyszerű jelektől a ritkább, bonyolultabbakig jönnek. Szűrő: N5 · N4 · N3 · N3 fölött (szintig). A régi beállítások automatikusan átváltódnak."
 }
