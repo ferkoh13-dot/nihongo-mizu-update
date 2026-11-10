@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "3.5",
-    "apkId":  "1YxBqCsDq-pjhJIxZFPjFjEZjbZCmUAGB",
-    "sha256":  "3f22580af81a7c71dd83cb7437271ecdade713b5ea048bb9d2c09abec343be36",
-    "size":  685941,
-    "notes":  "Saját 1–50 nehézségi szint (a WaniKani-szintek helyett): a kanjik a gyakori, egyszerű jelektől a ritkább, bonyolultabbakig jönnek. Szűrő: N5 · N4 · N3 · N3 fölött (szintig). A régi beállítások automatikusan átváltódnak."
+    "versionCode":  7,
+    "versionName":  "3.6",
+    "apkId":  "1fWMvNKv-UZxL2u9W_OlUH-pli1eLHt6c",
+    "sha256":  "afeab67415476db6fe0ea6aaa34bff40fc67fbbfa6453718c115dedad41653b5",
+    "size":  713757,
+    "notes":  "Szint-út (új fő funkció): 50 szint gyökökkel, kanjikkal, szavakkal; 9 fokozat, mindkét irányú kérdés, az app ellenőriz; új anyag csak ha a korábbi rögzült; napi adag hozzád igazodik; szintlépéskor gratuláció, Claude-érdekesség és olvasmány."
 }
