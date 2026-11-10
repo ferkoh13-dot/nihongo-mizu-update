@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "3.4",
-  "apkId": "14ZmrsS5dHnOA5-Xj0pjxVRDgIMtq2_MF",
-  "sha256": "8b8e780b53c3c14cc354383ef6c7a3d14b9bc5ad02c19ba5cf48ef30012fdca5",
-  "size": 688821,
-  "notes": "Új kezdőképernyő és Beállítások menü, 10 színtéma, formák és betűméretek. Új Claude AI-funkciók: mondatfordítás mindkét irányba és ragozás mondatban (saját API-kulccsal)."
+    "versionCode":  5,
+    "versionName":  "3.4.1",
+    "apkId":  "1N5lillIM-AAr-3V3qF8nw-2BQ3NOMDLp",
+    "sha256":  "089595195b65e70f7096209de16b8a30050fd65d834e69cc4f64e45e393bff54",
+    "size":  692165,
+    "notes":  "Ragozás mondatban: pontosabb feladatok (a helyes alakot a program adja, Claude csak a mondatot írja). Beírt válasznál a romaji elírásokat elfogadja, de a hiányzó hosszítás (pl. benkyo) vagy kettőzés hiba marad. Böngészős változat Drive-szinkronnal."
 }
