@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "3.3",
-  "apkId": "1jpKdsl13ebfnDzo2siXaTopVak4gxTck",
-  "sha256": "ee8533f198c30070c9900a22086342f27e638ffb1d48ee8a7e348b0b0db4b27c",
-  "size": 654191,
-  "notes": "A frissítést mostantól a Google Drive telepíti; az app nem kér telepítési engedélyt."
+  "versionCode": 4,
+  "versionName": "3.4",
+  "apkId": "14ZmrsS5dHnOA5-Xj0pjxVRDgIMtq2_MF",
+  "sha256": "8b8e780b53c3c14cc354383ef6c7a3d14b9bc5ad02c19ba5cf48ef30012fdca5",
+  "size": 688821,
+  "notes": "Új kezdőképernyő és Beállítások menü, 10 színtéma, formák és betűméretek. Új Claude AI-funkciók: mondatfordítás mindkét irányba és ragozás mondatban (saját API-kulccsal)."
 }
