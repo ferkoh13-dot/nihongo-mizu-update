@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "3.9.1",
-  "apkId": "1lDGXoUJ0oOUUlV8crnP9L-LlqsuY4R59",
-  "sha256": "225c0b0e72757998174f53ccae84934b714902f9504903bbca56e026a27e526f",
-  "size": 735397,
-  "notes": "Japán válasznál nincs elírás-tűrés: egy betű eltérés hiba (jelzi, kézzel elfogadható)"
+  "versionCode": 15,
+  "versionName": "3.10",
+  "apkId": "1M70MN5KJBD1mjHwvnSYd-Dk3R2SZkXfb",
+  "sha256": "e9dc1f8b741639c230e26f256984a6fada9ac32067209a732a36cc9400f74613",
+  "size": 737177,
+  "notes": "Szint-út: Felzárkózás (szintenként jelölöd, amit már tudsz) és gyors szintlépés (előbb gyökök és kanjik)"
 }
