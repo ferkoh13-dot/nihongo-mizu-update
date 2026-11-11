@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "3.7",
-  "apkId": "1pYaIf7kLmMh0_HjkmCDM38Ocbu0KzWZM",
-  "sha256": "ae5781e86ca48b7aef0494a2be256baf8481a3081609802b39b1c4e29eefdb89",
-  "size": 721353,
-  "notes": "Kereső (szótár) a kezdőlapon: szavak és kanjik magyarul, kanával, romajival vagy kanjival. Kanjiknál külön a kínai (on) és a japán (kun) olvasat, a részletek mindig látszanak. Rövid, képes emlékeztetők a gyökökhöz és kanjikhoz (Claude Opus, átírhatók). Ragozásnál kiírja, hogy udvarias vagy egyszerű alakot vár. A lecke végén nincs külön képernyő (a Tovább gomb hibája megszűnt). Felolvasásnál a szavak eleje nem vész el."
+  "versionCode": 11,
+  "versionName": "3.8",
+  "apkId": "1TupVn6ocGZySuoq4c_mPSB6GCw2r39nm",
+  "sha256": "db28e14e3d5962b108d8fc508deedcfdf5dabba8b410c11dd5b3ac8c3408e4d9",
+  "size": 731837,
+  "notes": "Példamondatok és gyakori kifejezések szavakhoz (Claude, a szintedhez); romaji → kana gépelés közben; Szabad gyakorlás a régi paklik helyett: beírással, automatikus értékeléssel, a sokszor rontottak előre, szint szerinti szűrés, szavak és kanjik vegyesen; színes kanji-rajzok és emlékeztető a kanji kártyán; jobb felolvasás"
 }
