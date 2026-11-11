@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "3.8.1",
-  "apkId": "1QEGSVBQwfm03VtWRaajTiGw7vFzUUL-i",
-  "sha256": "261f13cf009e785dafa35e7f7c4c9782ec3338ce89fdebf3965279c0d07d2440",
-  "size": 731957,
-  "notes": "Romaji → kana átírás a telefon billentyűzetével is működik gépelés közben"
+  "versionCode": 13,
+  "versionName": "3.9",
+  "apkId": "1ZVCT4bEWzmOPDFUv0ZhX1YCN92xBWa-O",
+  "sha256": "e5e3ee4e360f2dff1dc2f39d6b10b80701818736493ae36cdc8b156b3c7ac87b",
+  "size": 735337,
+  "notes": "Példamondatok mellé használati jegyzet; kérdéseknél jól látható kategória (gyök/kanji/szó) és irány; másik kategóriára jó válasznál javítható; Szint-úton kézi elfogadás minden kérdésnél; jobb emlékeztető-újrakérés"
 }
