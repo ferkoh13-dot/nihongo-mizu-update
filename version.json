@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "3.9",
-  "apkId": "1ZVCT4bEWzmOPDFUv0ZhX1YCN92xBWa-O",
-  "sha256": "e5e3ee4e360f2dff1dc2f39d6b10b80701818736493ae36cdc8b156b3c7ac87b",
-  "size": 735337,
-  "notes": "Példamondatok mellé használati jegyzet; kérdéseknél jól látható kategória (gyök/kanji/szó) és irány; másik kategóriára jó válasznál javítható; Szint-úton kézi elfogadás minden kérdésnél; jobb emlékeztető-újrakérés"
+  "versionCode": 14,
+  "versionName": "3.9.1",
+  "apkId": "1lDGXoUJ0oOUUlV8crnP9L-LlqsuY4R59",
+  "sha256": "225c0b0e72757998174f53ccae84934b714902f9504903bbca56e026a27e526f",
+  "size": 735397,
+  "notes": "Japán válasznál nincs elírás-tűrés: egy betű eltérés hiba (jelzi, kézzel elfogadható)"
 }
