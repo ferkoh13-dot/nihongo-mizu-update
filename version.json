@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "3.12",
-  "apkId": "1SajtCFq3LE4ct6__83qMqSbuBkwpkCfB",
-  "sha256": "e94cba4885346b4a26170c9fc90480e2cd4c74bfb056884feb5e614784aed238",
-  "size": 742313,
-  "notes": "A Szint-út beállításai (napi alapérték, életkor, leckeméret, gyors szintlépés) és a mai új adag most egyezik a telefonon és a böngészőben."
+  "versionCode": 18,
+  "versionName": "3.13",
+  "apkId": "1CUmX38xco4kLT3doamWd7sVzfs-PKVlj",
+  "sha256": "38b57a27970bf618074da7936e894d5b96b15cd7d1a3ced22591f9e5aa8893a0",
+  "size": 743177,
+  "notes": "Szint-út: a kanás szavaknál jelzi a kanjis alakot (és fordítva), mindkettő jó válasz; egy leckében legfeljebb fele kanás szó; a „tanulás alatt” felső határ beállítható (Hogyan működik? alatt); a beállítások egyeznek a telefonon és a böngészőben."
 }
