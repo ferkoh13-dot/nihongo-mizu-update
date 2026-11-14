@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "3.10",
-  "apkId": "1M70MN5KJBD1mjHwvnSYd-Dk3R2SZkXfb",
-  "sha256": "e9dc1f8b741639c230e26f256984a6fada9ac32067209a732a36cc9400f74613",
-  "size": 737177,
-  "notes": "Szint-út: Felzárkózás (szintenként jelölöd, amit már tudsz) és gyors szintlépés (előbb gyökök és kanjik)"
+  "versionCode": 16,
+  "versionName": "3.11",
+  "apkId": "1iz5YmtbM0t90mQhRfDzG_XmcPu9AHabp",
+  "sha256": "07b5cd016d0493523081a11c408311b7274acd101740dd5c87e152af3fbff79e",
+  "size": 742029,
+  "notes": "Szint-út: az ismétlés nem áll meg 100-nál; a mai új adag nem csökken napközben; kiírja, ha a „tanulás alatt” korlát fogja vissza az újakat; Statisztika: Szint-út rész. Korábbról: fő olvasat a kanjiknál, fokozatsáv kérdésnél, beállítható leckeméret."
 }
