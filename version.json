@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "3.15",
-  "apkId": "1OMlWWhJsikMnZ_VfawB9JQiyJJanmPm3",
-  "sha256": "4263ee9fbc31ead56fc72eb67797c1c68ddeb9c318b622296d04ae301ddc84da",
-  "size": 891509,
-  "notes": "Példamondatok és kanji-emlékeztetők előre beépítve (kulcs és net nélkül is megjelennek): szavak az 1–4. szinten, kanjik és gyökök az 1–8. szinten."
+  "versionCode": 21,
+  "versionName": "3.16",
+  "apkId": "1sD5TqAuQj8ZDnVLmYIKKlvqdmATkk_ck",
+  "sha256": "90e494faa054f2ddc00bfcb3ed71e68e3153f680cd9d37ab017ed44200acb476",
+  "size": 1081205,
+  "notes": "Előre beépített példamondatok már az 1–8. szint szavaihoz, emlékeztetők az 1–16. szint kanjijaihoz és gyökeihez."
 }
