@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "3.14",
-  "apkId": "1wQLcevqu-DCgneSsfZcGNr9ggVjM8S9Y",
-  "sha256": "e7d6e598142b688e3c1382e4c91c9a9acf77dcd80d4729acc26c4c48047b1b34",
-  "size": 745301,
-  "notes": "Kanjira koppintva megnyílik a kártyája (Vissza: az előzőhöz); Statisztika: szintenkénti lista minden elemmel, koppintásra kártya, színtévesztő-barát jelöléssel; a Claude-kulcs szinkronizál az eszközök között (a telefonon is készülnek példamondatok)."
+  "versionCode": 20,
+  "versionName": "3.15",
+  "apkId": "1OMlWWhJsikMnZ_VfawB9JQiyJJanmPm3",
+  "sha256": "4263ee9fbc31ead56fc72eb67797c1c68ddeb9c318b622296d04ae301ddc84da",
+  "size": 891509,
+  "notes": "Példamondatok és kanji-emlékeztetők előre beépítve (kulcs és net nélkül is megjelennek): szavak az 1–4. szinten, kanjik és gyökök az 1–8. szinten."
 }
