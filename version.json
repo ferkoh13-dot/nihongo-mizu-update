@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "3.16",
-  "apkId": "1sD5TqAuQj8ZDnVLmYIKKlvqdmATkk_ck",
-  "sha256": "90e494faa054f2ddc00bfcb3ed71e68e3153f680cd9d37ab017ed44200acb476",
-  "size": 1081205,
-  "notes": "Előre beépített példamondatok már az 1–8. szint szavaihoz, emlékeztetők az 1–16. szint kanjijaihoz és gyökeihez."
+  "versionCode": 22,
+  "versionName": "3.17",
+  "apkId": "1aHbNdFibeB0hZsCYhOX-zgFKMRMQw2b4",
+  "sha256": "fef04ce3d2e1b1098f3ad80986ac9b30591c9443afa08379aec114919dc93542",
+  "size": 1078125,
+  "notes": "Átnézett, javított példamondatok, kifejezések és jegyzetek az 1–8. szint szavaihoz; javított emlékeztetők az 1–16. szint kanjijaihoz és gyökeihez; 37 hibás szótári adat javítva."
 }
