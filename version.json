@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "3.17",
-  "apkId": "1aHbNdFibeB0hZsCYhOX-zgFKMRMQw2b4",
-  "sha256": "fef04ce3d2e1b1098f3ad80986ac9b30591c9443afa08379aec114919dc93542",
-  "size": 1078125,
-  "notes": "Átnézett, javított példamondatok, kifejezések és jegyzetek az 1–8. szint szavaihoz; javított emlékeztetők az 1–16. szint kanjijaihoz és gyökeihez; 37 hibás szótári adat javítva."
+  "versionCode": 23,
+  "versionName": "3.18",
+  "apkId": "18sTNq3KzAAMOdcWZSB-k0rGnDPotdbsp",
+  "sha256": "0211bacfa472298a11e6585002939598f7d91dd4ec2166d1591a1c625a663b47",
+  "size": 1079097,
+  "notes": "A „Hogy mondod japánul?” kérdésnél hiányos példamondat segít eltalálni, melyik szóra gondol az app; ha azonos jelentésű másik szót írsz, nem hiba, és fokozatosan megmutatja a szó elejét."
 }
