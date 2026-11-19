@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "3.18",
-  "apkId": "18sTNq3KzAAMOdcWZSB-k0rGnDPotdbsp",
-  "sha256": "0211bacfa472298a11e6585002939598f7d91dd4ec2166d1591a1c625a663b47",
-  "size": 1079097,
-  "notes": "A „Hogy mondod japánul?” kérdésnél hiányos példamondat segít eltalálni, melyik szóra gondol az app; ha azonos jelentésű másik szót írsz, nem hiba, és fokozatosan megmutatja a szó elejét."
+  "versionCode": 24,
+  "versionName": "3.19",
+  "apkId": "1S4oAn5pKj3Ggn6vOIZ0JLd1L_DMoebK4",
+  "sha256": "6b0b4b630b520d6f340c6492ad5cb6f5ec0d80ad0c18a703ab01aa4cee865f71",
+  "size": 1088657,
+  "notes": "Nyelvtani kártyák (toldalékok, kötőszók, utótagok): jegyzetek és példamondatok a Japán nyelvtani összefoglaló alapján; a 〜中 (じゅう) jelentése javítva."
 }
