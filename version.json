@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "3.19",
-  "apkId": "1S4oAn5pKj3Ggn6vOIZ0JLd1L_DMoebK4",
-  "sha256": "6b0b4b630b520d6f340c6492ad5cb6f5ec0d80ad0c18a703ab01aa4cee865f71",
-  "size": 1088657,
-  "notes": "Nyelvtani kártyák (toldalékok, kötőszók, utótagok): jegyzetek és példamondatok a Japán nyelvtani összefoglaló alapján; a 〜中 (じゅう) jelentése javítva."
+    "versionCode":  25,
+    "versionName":  "3.20",
+    "apkId":  "1hQBmkwvK7x8ECRfwfZ0LrKH8irDQAn4h",
+    "sha256":  "cf4c3fcffe4d1c81e51fda195eb87638d6f465e54f53ee89f2374f9ba1ffd0f6",
+    "size":  1089081,
+    "notes":  "Görgetés javítva széles képernyőn (gépi böngésző); két szójelentés javítva (盛り, 偶)."
 }
